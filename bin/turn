@@ -2,3 +2,5 @@
 require_relative '../lib/turn'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+display_board(board)
